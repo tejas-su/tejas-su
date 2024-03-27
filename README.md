@@ -1,5 +1,5 @@
 # Hi, I'm Tejas! 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tejas-su.tejas-su)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tejas-su.tejas-su)](https://github.com/tejas-su) 
 ## Introdution 🗺️
 
 Self taught computer enthusiast, striving to gain more knowledge and develop new skills in the field of front end developer, with a strong understanding of design principles and user experience. Seeking an entry level Front End Developer role to take my skills to the next level and gain professional experience. Strong attention to detail and ability to work well under pressure
@@ -33,8 +33,8 @@ Self taught computer enthusiast, striving to gain more knowledge and develop new
 ⚡️ Fun fact: The total size of Google Earth’s database is over 20 Petabytes.
 
 ## 👀 Github Stat's
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=tejas-su&count_private=true&show_icons=true&hide=contribs)
-
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-su" alt="GitHub Stats" />
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-su&layout=compact)
 
 ## Causes

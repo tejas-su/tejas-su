@@ -33,8 +33,8 @@ Self taught computer enthusiast, striving to gain more knowledge and develop new
 ⚡️ Fun fact: The total size of Google Earth’s database is over 20 Petabytes.
 
 ## 👀 Github Stat's
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-su" alt="GitHub Stats" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-su&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-su&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Causes
 
 Arts and Culture • Education • Environment • Science and Technology • Social Services

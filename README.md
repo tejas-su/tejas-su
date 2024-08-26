@@ -60,5 +60,9 @@ Arts and Culture • Education • Environment • Science and Technology • So
 [![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)](tejas_s.u@yahoo.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@tejas-su)
 
+## Daily.dev stats 🙂
+
+<a href="https://app.daily.dev/tejassu"><img src="https://api.daily.dev/devcards/v2/a6yEMabyUyDs9BPlEhGBZ.png?type=default&r=sgh" width="356" alt="tejas.s.u_'s Dev Card"/></a>
+
 
 
